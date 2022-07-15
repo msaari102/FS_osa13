@@ -1,9 +1,10 @@
 POST http://localhost:3001/api/blogs/
 Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3RhYWphM0BnbWFpbC5jb20iLCJpZCI6MywiaWF0IjoxNjU3ODk3NjUwfQ.lJ-K64a0qyrnbxcHyPlna0YQCp3eHjBCitof7tNkJVQ
 
-{
-  "title": "TDD harms architecture",
-  "author": "Robert C. Martin",
-  "url": "http://blog.cleancoder.com/uncle-bob/2017/03/03/TDD-Harms-Architecture.html",
-  "likes": 12
-}
+  {
+    "title": "Type wars",
+    "author": "Robert C. Martin",
+    "url": "http://blog.cleancoder.com/uncle-bob/2016/05/01/TypeWars.html",
+    "likes": 2
+  }
