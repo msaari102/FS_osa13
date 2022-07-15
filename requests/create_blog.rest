@@ -1,5 +1,6 @@
 POST http://localhost:3001/api/blogs/
 Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3RhYWphMUBnbWFpbC5jb20iLCJpZCI6MSwiaWF0IjoxNjU3OTA1OTg1fQ.ZQ-hxwe0qbprpWwajEBh6rmW96qfLLQ5dZYJetXcECI
 
 {
   "title": "Canonical string reduction",
