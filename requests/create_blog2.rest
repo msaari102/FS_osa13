@@ -3,8 +3,9 @@ Content-Type: application/json
 Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3RhYWphMiIsImlkIjoyLCJpYXQiOjE2NTc4OTc2MTN9.a_3mStN_XeTGf3iC-oEd9boZwhbgQ1CMEht9JBgy0Uo
 
   {
-    "title": "TDD harms architecture",
+    "title": "First class tests",
     "author": "Robert C. Martin",
-    "url": "http://blog.cleancoder.com/uncle-bob/2017/03/03/TDD-Harms-Architecture.html",
-    "likes": 0
+    "url": "http://blog.cleancoder.com/uncle-bob/2017/05/05/TestDefinitions.htmll",
+    "likes": 10,
+    "year": 2000
   }
