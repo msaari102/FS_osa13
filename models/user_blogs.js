@@ -20,7 +20,7 @@ UserBlogs.init({
     allowNull: false,
     references: { model: 'blogs', key: 'id' },
   },
-  hasRead: {
+  read: {
     type: DataTypes.BOOLEAN,
     defaultValue: false,
   }

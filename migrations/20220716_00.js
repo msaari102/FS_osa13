@@ -18,7 +18,7 @@ module.exports = {
         allowNull: false,
         references: { model: 'blogs', key: 'id' },
       },
-      has_read: {
+      read: {
         type: DataTypes.BOOLEAN,
         defaultValue: false,
       }
