@@ -1,0 +1,7 @@
+PUT http://localhost:3001/api/users/disable/
+Content-Type: application/json
+
+{
+  "username": "testaaja1@gmail.com",
+  "disabled": false
+}

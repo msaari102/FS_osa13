@@ -1,11 +1,11 @@
 POST http://localhost:3001/api/blogs/
 Content-Type: application/json
-Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3RhYWphMiIsImlkIjoyLCJpYXQiOjE2NTc4OTc2MTN9.a_3mStN_XeTGf3iC-oEd9boZwhbgQ1CMEht9JBgy0Uo
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3RhYWphMkBnbWFpbC5jb20iLCJpZCI6MiwiaWF0IjoxNjU3OTk0NDk0fQ.X9enhF7zmSqlkw-yZG6R4iOrrb38a3LPE5UemdnsHgs
 
   {
-    "title": "First class tests",
+    "title": "TDD harms architecture",
     "author": "Robert C. Martin",
-    "url": "http://blog.cleancoder.com/uncle-bob/2017/05/05/TestDefinitions.htmll",
-    "likes": 10,
-    "year": 2000
+    "url": "http://blog.cleancoder.com/uncle-bob/2017/03/03/TDD-Harms-Architecture.html",
+    "likes": 0,
+    "year": 1999
   }

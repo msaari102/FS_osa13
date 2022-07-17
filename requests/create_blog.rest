@@ -1,11 +1,11 @@
 POST http://localhost:3001/api/blogs/
 Content-Type: application/json
-Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3RhYWphMUBnbWFpbC5jb20iLCJpZCI6MSwiaWF0IjoxNjU3OTA1OTg1fQ.ZQ-hxwe0qbprpWwajEBh6rmW96qfLLQ5dZYJetXcECI
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3RhYWphMUBnbWFpbC5jb20iLCJpZCI6MSwiaWF0IjoxNjU4MDc4MTIwfQ.hkXsTPIv2iVTIQw59EosQGXUifM63uWE3jtzbMiUqOI
 
-  {
-    "title": "React patterns",
-    "author": "Michael Chan",
-    "url": "https://reactpatterns.com/",
-    "likes": 7,
+{
+    "title": "Testi",
+    "author": "Edsger W. Dijkstra",
+    "url": "http://www.cs.utexas.edu/~EWD/transcriptions/EWD08xx/EWD808.html",
+    "likes": 12,
     "year": 2020
   }
